@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">First Android App</string>
+    <string name="greetings">Hi there.</string>
+    <string name="otherVariable">these are words</string>
+
+</resources>
